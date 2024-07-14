@@ -9,9 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a>
-         Hello Bitches
-        </a>
+    Hello Idiots 
       </header>
     </div>
   );
